@@ -1,0 +1,4 @@
+a=100
+b=75
+diff=a-b
+print(a-b)

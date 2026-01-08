@@ -1,0 +1,4 @@
+A=30
+B=25
+sum=A+B
+print(sum)
